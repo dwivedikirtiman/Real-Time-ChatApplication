@@ -172,7 +172,7 @@ Real-Time Concurrent Screens of all the involved users in the communication
 
 ## 🤝 Contribution
 
-- Contributions are welcome! If you'd like to improve this project, please follow these steps:
+Contributions are welcome! If you'd like to improve this project, please follow these steps:
 
 - Fork the repository.
 
